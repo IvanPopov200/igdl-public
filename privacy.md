@@ -14,5 +14,3 @@ IGDL does not collect, transmit, or store any personal data.
 IGDL only accesses publicly available Instagram content that you
 explicitly share into the app. IGDL is not affiliated with or endorsed
 by Instagram or Meta Platforms, Inc.
-
-Questions: alivecontactme@gmail.com
